@@ -10,7 +10,8 @@
   * web programming<br>
    url -<br>
 
-  * AI project<br>
+  * AI<br>
+   use ChatGPT
 
   
   
