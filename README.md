@@ -1,10 +1,17 @@
 ### ccchyun github
 
   * team project
-  
+
   * python
+   data analysis
+   dataset - url ---
+   url -
   
   * web programming
+   url -
+
+  * AI project
+
   
   
 
