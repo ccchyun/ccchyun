@@ -5,7 +5,7 @@
   * python<br>
    data analysis<br>
    dataset : url ---<br>
-   url -<br>
+   url - https://ldjwj.github.io/Goorm_3rd_DataCourse/<br>
   
   * web programming<br>
    url -<br>
